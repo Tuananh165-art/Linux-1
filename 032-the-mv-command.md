@@ -44,5 +44,3 @@ mv essay.txt assignments
 | `-n`           | `--no-clobber`  | Không ghi đè một tệp hiện có                                                                         |
 | `-v`           | `--verbose`     | In ra tệp nguồn và tệp đích                                                                        |
 | `-b`           | `--backup`      | Tạo một bản sao lưu của tệp đích hiện có                                                              |
-
-````

@@ -17,8 +17,3 @@ history | grep artisan
 ```
 history 10
 ```
-
-````
-
-Nếu bạn cần thêm sự trợ giúp, hãy cho tôi biết!
-````

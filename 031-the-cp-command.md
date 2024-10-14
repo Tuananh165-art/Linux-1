@@ -101,5 +101,3 @@ $ cp -f a.txt b.txt
 |`-r hoặc -R`|`--recursive`|Lệnh **cp** thể hiện hành vi đệ quy của nó bằng cách sao chép toàn bộ cấu trúc thư mục đệ quy.|
 |`-n`|`--no-clobber`|không ghi đè một tệp hiện có (ghi đè một tùy chọn -i trước đó)|
 |`-p`|<center>-</center>|bảo toàn các thuộc tính được chỉ định (mặc định: chế độ, quyền sở hữu, dấu thời gian), nếu có thể các thuộc tính bổ sung: ngữ cảnh, liên kết, xattr, tất cả|
-
-````
