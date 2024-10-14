@@ -103,7 +103,3 @@ $ cp -f a.txt b.txt
 |`-p`|<center>-</center>|bảo toàn các thuộc tính được chỉ định (mặc định: chế độ, quyền sở hữu, dấu thời gian), nếu có thể các thuộc tính bổ sung: ngữ cảnh, liên kết, xattr, tất cả|
 
 ````
-
-````
-
-````

@@ -46,7 +46,3 @@ mv essay.txt assignments
 | `-b`           | `--backup`      | Tạo một bản sao lưu của tệp đích hiện có                                                              |
 
 ````
-
-````
-
-````

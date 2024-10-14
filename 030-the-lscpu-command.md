@@ -49,7 +49,3 @@ manish@godsmack:~$ lscpu
     Ví dụ: `lsof -e`
     
 Để biết thêm thông tin: sử dụng `man lscpu` hoặc `lscpu --help`
-
-````
-
-````

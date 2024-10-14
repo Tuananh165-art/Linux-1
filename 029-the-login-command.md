@@ -26,7 +26,3 @@ $ login [-p] [-h host] [-H] [-f username|username]
 $ login: abhishek
 ```
 Nếu một mật khẩu được định nghĩa, lời nhắc mật khẩu sẽ xuất hiện. Nhập mật khẩu của bạn tại lời nhắc này.
-
-````
-
-````

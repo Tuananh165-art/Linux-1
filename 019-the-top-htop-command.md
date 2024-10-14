@@ -87,7 +87,3 @@ htop [OPTIONS]
 |`-h`|<center>-</center>|`top --user {user_name}` Chỉ hiển thị các tiến trình thuộc sở hữu của người dùng.|
 |`-U`|<center>-user</center>|Trợ giúp.|
 |`-u`|<center>-</center>|Đây là một bí danh tương đương với: -o cpu -O time.|
-
-`````
-
-````
