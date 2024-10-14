@@ -50,5 +50,3 @@ Nếu bạn chỉ nhớ một điều từ trang này, hãy nhớ ba chữ cái 
 |`--help all`|Hiển thị tất cả các tùy chọn có sẵn|
 
 Một lệnh hữu ích khác cung cấp ảnh chụp nhanh thời gian thực của các quá trình và tài nguyên mà chúng đang sử dụng khoảng mỗi mười giây là `top`.
-
-`````
